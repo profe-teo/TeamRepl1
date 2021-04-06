@@ -1,1 +1,4 @@
-print("Hola Mundo")
+
+
+for _ in range(10):
+  print("Hola Mundo")
